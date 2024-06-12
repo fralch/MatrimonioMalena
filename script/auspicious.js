@@ -2,7 +2,7 @@
 function updateTime() {
 
     // Set the date we're counting down to
-    let target_date = new Date("Jun 29, 2024 23:59:59").getTime();
+    let target_date = new Date("Jul 06, 2024 23:59:59").getTime();
 
     // Get current date and time
     let current_date = new Date().getTime();
